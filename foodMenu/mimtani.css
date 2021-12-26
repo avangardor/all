@@ -1,0 +1,142 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-glaho/css/bpg-glaho.min.css");
+
+*
+{
+    font-family: "BPG Glaho", sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+#menu
+{
+    margin-top: 27px;
+    margin-left: 35px;
+    font-size: 20px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 0%;
+    color: #121526;
+    border-bottom: 2px solid #918AE2;
+
+}
+
+#geo
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    transform: translateY(50px);
+    width: 272px;
+    height: 54px;
+}
+#eng
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    margin-top: 22px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    transform: translateY(38px);
+    width: 272px;
+    height: 54px;
+}
+#rus
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    margin-top: 22px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    transform: translateY(30px);
+    width: 272px;
+    height: 54px;
+}
+#navigation
+{
+ margin-top: 86px;
+ margin-left: 44px;
+}
+.rectangle
+{
+    width: 218px;
+    height: 50px;
+    background-color: #1F1F24;
+    margin-top: 177px;
+    margin-left: 71px;
+    border-radius: 50px;
+}
+.circle
+{
+    width: 62px;
+    height: 62px;
+    margin-left: 80px;
+    transform: translateY(-30px);
+    border-radius: 50%;
+    background-color: #5D55B4;
+}
+#zari
+{
+    align-content: center;
+    transform: translateY(15px);
+    margin-left: 16px;
+}
+#homeSvg
+{
+    margin-left: 28px;
+    transform: translateY(14px);
+}
+.textiori
+{
+    color: wheat;
+    float: left;
+    transform: translateX(150px);
+}
+#urika
+{
+    margin-left: 87px;
+    transform: translateY(-12px);
+}
+.rectangle
+{
+    width: 218px;
+    height: 50px;
+    background-color: #1F1F24;
+    transform: translateY(10px);
+    margin-left: 71px;
+    border-radius: 50px;
+}
+#circle
+{
+    width: 62px;
+    height: 62px;
+    margin-left: 80px;
+    transform: translateY(-30px);
+    border-radius: 50%;
+    background-color: #5D55B4;
+}
+.bellSvg
+{
+    align-content: center;
+    transform: translateY(15px);
+    margin-left: 18px;
+}
+.homeSvg
+{
+    margin-left: 28px;
+    transform: translateY(14px);
+}
+.textiori
+{
+    color: wheat;
+    float: left;
+    transform: translateX(150px);
+}

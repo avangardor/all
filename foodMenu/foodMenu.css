@@ -1,0 +1,78 @@
+ @import url("https://cdn.web-fonts.ge/fonts/bpg-glaho/css/bpg-glaho.min.css");
+
+*
+{
+    font-family: "BPG Glaho", sans-serif;
+}
+body
+{
+    background-color:#918AE2;
+}
+
+
+/*MAIN TEXT*/
+.mainText
+{
+    text-align: center;
+    margin-top: 91px;
+}
+
+.textOne
+{
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.textTwo
+{
+    font-size: 42px;
+    color: #FFFFFF;
+}
+.nav
+{
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    width: 360px;
+    height: 362px;
+    background-color: #fff;
+    margin-top: 70px;
+    
+} 
+
+
+/*NAVIGATION*/
+#geo
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#eng
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    margin-top: 22px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#rus
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    margin-top: 22px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#navigation
+{
+ width: 191px;
+ height: 54px;
+ margin-top: 86px;
+ margin-left: 85px;
+}

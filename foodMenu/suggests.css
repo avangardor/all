@@ -1,0 +1,84 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-glaho/css/bpg-glaho.min.css");
+
+*
+{
+    font-family: "BPG Glaho", sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+/* navigation */
+#menu
+{
+    margin-top: 27px;
+    margin-left: 35px;
+    font-size: 20px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 0%;
+}
+#suggests
+{
+    margin-top: 27px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 0%;
+    color: #121526;
+    border-bottom: 2px solid #918AE2;
+}
+/* vertical scroll menu */
+div.scroll {
+    margin:4px, 4px;
+    padding:4px;
+    width: 360px;
+    height: 550px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: 15px;
+}
+div.scroll::-webkit-scrollbar {
+    display: none; 
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+/* food image card */
+#cardTitle
+{
+    font-size: 46px;
+    text-align: center;
+    margin-top: 10px;
+}
+#cardTextTwo
+{
+    text-align: center;
+    font-size: 13px;
+}
+#cardText
+{
+    text-align: center;
+    font-size: 21px;
+}
+#cardImg
+{
+    width: 301px;
+    height: 166.85px;
+    border-radius: 20px;
+}
+#imgDiv
+{
+    width: 301px;
+    margin-left: 28.5px;
+    transform: translateY(-30px);
+    margin-top: 26px;
+    border-radius: 20px;
+    border: 0px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}

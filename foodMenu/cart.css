@@ -1,0 +1,109 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-glaho/css/bpg-glaho.min.css");
+
+*
+{
+    font-family: "BPG Glaho", sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+
+/*navigation*/
+#menu
+{
+    margin-top: 27px;
+    margin-left: 35px;
+    font-size: 20px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 0%;
+    color: #121526;
+    border-bottom: 2px solid #918AE2;
+}
+/* subtmit button */
+#submitButton
+{
+ width: 150px;
+ height: 37px;
+ margin-left: 105px;
+ transform: translateY(60px);
+}
+#eng
+{
+    border-color: #5D55B4;
+    background-color: #5D55B4;
+    margin-top: 345px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-size: 11px;
+}
+/* Time and total price */
+.price-time
+{
+    display: flex;
+    margin-left: 39px;
+    transform: translateY(399px);
+    color: #5D55B4;
+    font-size: 15px;
+}
+.time{
+    transform: translateX(24px);
+}
+/* texts */
+.price
+{
+    color: black;
+    margin-left: 2px;
+}
+.tm
+{
+    color: black;
+    margin-left: 25px;
+}
+/* bottom navigation */
+.rectangle
+{
+    width: 218px;
+    height: 50px;
+    background-color: #1F1F24;
+    transform: translateY(417px);
+    margin-left: 71px;
+    border-radius: 50px;
+}
+#circle
+{
+    width: 62px;
+    height: 62px;
+    margin-left: 80px;
+    transform: translateY(-30px);
+    border-radius: 50%;
+    background-color: #5D55B4;
+}
+/* zari */
+#bellSvg
+{
+    align-content: center;
+    transform: translateY(15px);
+    margin-left: 16px;
+}
+/* saxli */
+#homeSvg
+{
+    margin-left: 28px;
+    transform: translateY(14px);
+}
+#urika
+{
+    margin-left: 87px;
+    transform: translateY(-12px);
+}
+.textiori
+{
+    color: wheat;
+    float: left;
+    transform: translateX(150px);
+}

@@ -1,0 +1,154 @@
+*{
+    text-decoration: none;
+}
+body{
+    color: #4b4b4b;
+}
+.offcanvas-title{
+    color: #FFFFFF;
+    font-family:"BPG Nino Mtavruli", sans-serif;
+}
+.nav-link{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.container-fluid{
+    background-color: #34495E;
+}
+.offcanvas-body{
+    background-color: #c0392c;
+}
+.offcanvas-header{
+    background-color: #34495E;
+}
+.dropdown-item{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.image{
+    margin-top: 100px;
+}
+.p-1{
+    font-family:"BPG Nino Mtavruli", sans-serif;
+}
+.p-2{
+    font-family:"BPG Nino Mtavruli", sans-serif;
+    color: #FFFFFF;
+   
+}
+.p-3{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+  margin-top: 30px;
+  margin-left: 1080px;
+}
+.p-4{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-size: 20px;
+}
+.p-5{
+    font-family: "ALK Sanet", sans-serif;
+
+}
+.p-6{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    float: left;
+    clear: left;
+    font-size: 20px;
+    margin-top: 29px;
+    margin-left: 30px;
+    font-size: 40px;
+}
+.p-7{
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: -320px;
+    float: left;
+    clear: left;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+   font-size: 25px;
+   color: black;
+}
+.p-8{
+    float: left;
+    clear: left;
+    margin-left: 350px;
+    margin-top: -250px;
+}
+.p-9{
+    margin-top: 330px;
+    margin-left: 670px;
+    color: black;
+    text-decoration: none;
+}
+.video{
+    margin-top: 100px;
+}
+.figure{
+    width: 500;
+    height: 400;
+}
+.p-14{
+    font-family:"BPG Nino Mtavruli", sans-serif;
+    margin-top: 10px;
+    margin-left: 450px;
+    font-size: 70px;
+    color: black;
+}
+.card-title{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.card-text{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.image-2{
+    margin-left: 30px;
+}
+.nav-a{
+    color: #FFFFFF;
+    font-family:"BPG Nino Mtavruli", sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+}
+#nav-b{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.width-height{
+    width: 500px;
+    height: 400px;
+}
+.test-1{
+    width: 800px;
+}
+.table-1{
+    width: 600px;
+    height: 50px;
+    margin-top: -20px;
+    margin-left: 30px;
+}
+.pagination{
+    margin-left: 100px;
+}
+.table-1{
+    width: 200px;
+    margin-top: -10px;
+    margin-left: 1100px;
+    font-family: "ALK Sanet", sans-serif;
+
+}
+.ole-1{
+    float: left;
+    clear: left;
+    margin-left: 25px;
+}
+.dato-123{
+    float: left;
+    clear: left;
+    text-decoration: none;
+}
+.dato-1234{
+    margin-left: 350px;
+    margin-top: 10px;
+    float: left;
+    clear: left;
+}

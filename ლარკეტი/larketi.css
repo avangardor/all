@@ -1,0 +1,156 @@
+*{
+    font-family:"BPG Mrgvlovani", sans-serif;   
+}
+p{
+    color: #4e4f53;
+}
+a{
+    text-decoration: none;
+}
+.border-1{
+    color: #4e4f53;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.image-1{
+    width: 130px;
+    height: 45px;
+    margin-top: 14px;
+    margin-left: 36px;
+}
+.image-2{
+    width: 32px;
+    height: 32px;
+    margin-top: -50px;
+    margin-right: 100px;
+    float: right;
+    clear: right;
+}
+.nav-1{
+    margin-left: 320px;
+    margin-top: -35px; 
+}
+.a-1{
+  color: #4e4f53;  
+}
+.nav-2{
+    margin-left: 444px;
+    margin-top: -41px; 
+}
+.a-2{
+  color: #4e4f53;  
+}
+.nav-3{
+    margin-left: 583px;
+    margin-top: -41px; 
+}
+.a-3{
+  color: #4e4f43;  
+}
+.p-1{
+    margin-left: 41px;
+    margin-top: 10px;
+    color: #4e4f53;
+    font-size: 18px;
+}
+.p-2{
+    margin-left: 41px;
+    font-size: 16px;
+}
+.p-3{
+    margin-top: -28px ;
+    margin-left: 71px;
+}
+.button{
+margin-top: -30px;
+margin-left: 42px;
+}
+.p-4{
+    margin-top: -26px;
+    margin-left: 70px;
+}
+.button-2{
+    margin-left: 42px;
+
+}
+.p-5{
+    margin-top: -28px;
+    margin-left: 70px;
+}
+.button-3{
+    margin-left: 42px;
+
+}
+.p-6{
+    margin-top: -28px;
+    margin-left: 70px;
+}
+.button-4{
+    margin-left: 42px;
+}
+.p-7{
+    margin-top: -28px;
+    margin-left: 70px;
+}
+.button-5{
+    margin-left: 42px;
+}
+.p-8{
+    margin-top: -28px;
+    margin-left: 30px;
+}
+.p-9{
+    margin-top: -28px;
+    margin-left: 30px;
+}
+.p-10{
+    margin-top: -28px;
+    margin-left: 30px;
+}
+.p-11{
+    margin-left: 41px;
+    font-size: 18px;
+    color: #4e4f53;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.details-1{
+    margin-left: 71px;
+    color: #4e4f53;
+}
+.text-1{
+    width: 50px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.text-2{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.text-3{
+    margin-top: -20px;
+    margin-left: 335px;
+    width: 695px;
+    height: 66px;
+    border-radius: 10px;
+    
+}
+.button-9{
+    margin-left: 30px;
+    width: 200px;
+    background-color: #47a359;
+    color: #FFFFFF;
+    border-radius: 10px;
+    
+}

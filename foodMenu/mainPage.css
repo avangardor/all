@@ -1,0 +1,232 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-glaho/css/bpg-glaho.min.css");
+
+*
+{
+    font-family: "BPG Glaho", sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+/*navigation*/
+#menu
+{
+    margin-top: 27px;
+    margin-left: 35px;
+    font-size: 20px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 0%;
+    color: #121526;
+    border-bottom: 2px solid #918AE2;
+
+}
+#suggests
+{
+    margin-top: 27px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 0%;
+}
+/*search*/
+#searchdiv
+{
+    width: 300px;
+    height: 30px;
+    margin-top: 29px;
+    margin-left: 30px;
+}
+#searchbar
+{
+    border-radius: 20px;
+}
+/*horizontal scroll menu*/
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    margin-left: 20px;
+    margin-top: 27px;
+}
+  
+div.scrollmenu a {
+    color: white;
+    padding: 14px;
+}
+#horizontalmenu
+{
+    margin-left: 8px;
+    color: #CECFD3;
+    background-color: #fff;
+    border: 1px solid #ECECEC;
+    border-radius: 20px;
+    font-size: 10px;
+}
+#horizontalmenuActive
+{
+    margin-left: 8px;
+    color: #fff;
+    background-color: #5D55B4;
+    border: 1px solid #ECECEC;
+    border-radius: 20px;
+    font-size: 10px;
+}
+.scrollmenu::-webkit-scrollbar {
+    display: none; 
+}
+/* vertically scroll menu */
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+.foodImg
+{
+    width: 120px;
+    height: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+#imagesCard
+{
+    width: 301px;
+    height: 118px;
+    border-radius: 20px;
+    border: 1px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin-left: -15px;
+    transform: translateY(-15px);
+}
+#mainCard
+{
+    width: 301px;
+    height: 118px;
+    border-radius: 20px;
+    border: 0px;
+}
+.card-text
+{
+    font-size: 8px;
+}
+#header
+{
+    font-size: 16px;
+    color: #121526;
+}
+.add
+{
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background-color: #5D55B4;
+    font-size: 20px;
+    color: #CECFD3;
+}
+.addButton
+{
+   text-align: center;
+   transform: translateY(-2px);
+}
+div.scroll {
+    margin:4px, 4px;
+    padding:4px;
+    width: 310px;
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-left: 29px;
+    transform: translateY(10px);
+}
+div.scroll::-webkit-scrollbar {
+    display: none; 
+}
+.priceTxt
+{
+    font-size: 10px;
+}
+.price
+{
+    margin-left: 68px;
+    margin-top: -30px;
+    font-size: 10px;
+}
+.top-left {
+    position: absolute;
+    top: 7px;
+    left: 9px;
+    font-size: 8px;
+    width: 34px;
+    height: 20px;
+    background-color: #5D55B4;
+    border-radius: 10px;
+  }
+  .time
+  {
+    transform: translateY(4px);
+    text-align: center;
+    color: #CECFD3;
+  }
+  /* bottom navigation */
+
+  .bottomNav
+  {
+      width: 218px;
+      height: 50px;
+      background-color: #1F1F24;
+      transform: translateY(-145px);
+      margin-left: 71px;
+      border-radius: 30px;
+  }
+  .mainNav
+  {
+      width: 62px;
+      height: 62px;
+      transform: translateY(-200px);
+      border-radius: 50%;
+      background-color: #5D55B4;
+      margin-left: 149px;
+  }
+  .rectangle
+  {
+      width: 218px;
+      height: 50px;
+      background-color: #1F1F24;
+      transform: translateY(-20px);
+      margin-left: 71px;
+      border-radius: 50px;
+  }
+  #circle
+  {
+      width: 62px;
+      height: 62px;
+      margin-left: 80px;
+      transform: translateY(-30px);
+      border-radius: 50%;
+      background-color: #5D55B4;
+  }
+  #bellSvg
+  {
+      align-content: center;
+      transform: translateY(15px);
+      margin-left: 16px;
+  }
+  #homeSvg
+  {
+      margin-left: 28px;
+      transform: translateY(14px);
+  }
+  .textiori
+  {
+      color: wheat;
+      float: left;
+      transform: translateX(150px);
+  }
+  #urika
+  {
+      margin-left: 87px;
+      transform: translateY(-12px);
+  }
